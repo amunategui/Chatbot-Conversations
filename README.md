@@ -1,0 +1,2 @@
+# Chatbot-Conversations
+Chatbots are all the rage these days and we get a lot of requests for them at SpringML. They not only have that “AI” chic, they’re also offer faster customer service at a much cheaper cost - a huge win-win. Though chatbot technology is mature and available today, see Dialogflow from Google as an example of how easy it is to implement, building a good one is no trivial task. The last thing you want to do is anger customers that are reaching out for help.
